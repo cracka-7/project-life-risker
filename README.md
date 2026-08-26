@@ -1,4 +1,4 @@
-**# Project Life Risker (PLR)
+** Project Life Risker (PLR)
 
 Project Life Risker (PLR) - A specialized Russian Roulette GUI script designed for Low sUNC environments. Optimized and confirmed working for Solara Executor; compatibility with other executors is not guaranteed.
 
