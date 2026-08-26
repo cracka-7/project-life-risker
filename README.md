@@ -5,7 +5,7 @@ Project Life Risker (PLR) - A specialized Russian Roulette GUI script designed f
 ## Interface Preview
 
 <p align="center">
-  <img src="blob:https://aistudio.google.com/7a547f78-dd7b-4e53-ac1a-0a5e9407ca73" width="850"/>
+  <img src="https://aistudio.google.com/7a547f78-dd7b-4e53-ac1a-0a5e9407ca73" width="850"/>
 </p>
 
 ## Key Features
