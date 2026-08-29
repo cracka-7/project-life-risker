@@ -1,21 +1,19 @@
-## Project Life Risker (PLR)
+# Project Life Risker (PLR)
 
-Project Life Risker (PLR) - A specialized Russian Roulette GUI script designed for Low sUNC environments. Optimized and confirmed working for Solara Executor; compatibility with other executors is not guaranteed.
+Project Life Risker (PLR) - A specialized Russian Roulette GUI script designed for Low sUNC environments. Optimized and confirmed working for **Solara Executor**; compatibility with other executors is not guaranteed.
 
 ## Interface Preview
 
-<p align="center">
-  <img src="https://aistudio.google.com/7a547f78-dd7b-4e53-ac1a-0a5e9407ca73" width="850"/>
-</p>
+https://github.com/user-attachments/assets/53276630-65d8-488c-80b6-2af2916394dc
 
 ## Key Features
 
-- Dynamic odds calculation engine with passive reset on death.
-- Amplified audio feedback (300% volume for gunshot, cylinder spin, and blank SFX).
-- Yu-Gi-Oh style vertical card system featuring randomized Hex RGB artwork and skills.
-- Integrated Streaks Tracker and SoundCloud Orange manual guide.
+- **Dynamic Odds Engine**: Real-time probability calculation with passive reset on death.
+- **Amplified Audio Feedback**: 300% volume for gunshot, cylinder spin, and blank SFX.
+- **Yu-Gi-Oh Card Mechanic**: Vertical card system featuring randomized Hex RGB artwork and skill buffs/debuffs.
+- **Integrated Vault & Streaks Tracker**: Real-time session and highest streak monitoring with inventory system.
 
 ## Quick Execution
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cracka-7/Project-Life-Risker/main/script.lua"))()**
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cracka-7/Project-Life-Risker/main/script.lua"))()
